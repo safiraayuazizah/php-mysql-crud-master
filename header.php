@@ -26,7 +26,8 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-                          <li> <img src="./assets/images/ce.png" alt="CE" class="tlogo"> </li>
+                          <li> <img src="
+https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdxwowwqq8as/b/bucket-uts-safira/o/ce.png" alt="CE" class="tlogo"> </li>
                         <li class="active"><a href="index.php">Home</a></li>
                     </ul>
 
