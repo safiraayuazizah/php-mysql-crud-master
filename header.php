@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">  
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-        <link rel="stylesheet" href="./assets/style.css">
+        <link rel="stylesheet" href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdxwowwqq8as/b/bucket-uts-safira/o/css%2Fheader.php">
 
     </head>
     <body >
